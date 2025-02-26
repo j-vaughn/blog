@@ -1,0 +1,6 @@
+site_name: James's Website
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
