@@ -1,5 +1,7 @@
 # Porting My C# Console App to Python Using ChatGPT
 
+*April 10, 2025*
+
 I recently set out to replace a small C# console app I’d written to control announcements on the IP intercoms in my house. The goal was to decommission an old Windows virtual machine, that existed solely to host that app, and move everything over to Linux. But I added a twist: I wanted to rebuild the entire thing in Python—**without writing a single line of code myself**.
 
 This was partly an experiment and partly a challenge: could I guide ChatGPT to generate a working web app just by describing what I needed?

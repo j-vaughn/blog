@@ -10,9 +10,9 @@ Explore my latest insights on cybersecurity and homelabs or connect with me on L
 
 ## Recent Posts
 
+* [Repurposing a Commercial Mass Notification Device for Custom Use](https://jamesvaughn.net/blog/Homelab/Hardware/RepurposingAMassNotificationAppliance/)
 * [Porting My C# Console App to Flask Using ChatGPT](https://jamesvaughn.net/blog/Software/IntercomSystemFlask/)
 * [Why Cross-Training, Homelabs, and Hands-On Learning Matter for Security](https://jamesvaughn.net/blog/Opinion/CyberCrossTraining/)
-* [Internal Camera Privacy](https://jamesvaughn.net/blog/Homelab/Automation/InternalCameras/)
 
 ## Links
 

@@ -3,7 +3,7 @@
 > This paper was written in college in April, 2011, as part of my Cryptography Mathematics course. It explores how timing attacks can be used to extract private key information from RSA implementations - not by breaking the math, but by observing how long operations take to complete.
 >
 > The **original**, **unedited** content is included below, including typographical errors.
-> You can also [view the original PDF](/Archive/img/TimingAttacksOnRSA.pdf).
+> You can also [view the original PDF](/blog/Archive/img/TimingAttacksOnRSA.pdf).
 
 
 

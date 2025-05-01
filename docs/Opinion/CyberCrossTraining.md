@@ -1,6 +1,6 @@
 # Why Cross-Training, Homelabs, and Hands-On Learning Matter for Security
 
-March 3, 2025
+*March 3, 2025*
 
 It’s easy to get locked into the OT world—focused on uptime, legacy systems, and the constraints that make industrial environments different from IT. And for good reason. IT security strategies don’t always map cleanly to OT, and the risks we manage (safety, reliability, physical consequences) mean we can’t afford to blindly adopt IT’s approach.
 
